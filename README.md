@@ -42,8 +42,12 @@ Covid-19 sentiment analysis is the practice to identify and extract subjective i
 We have used aspect-based sentiment analysis to classify public opinion about covid19 twitter data and the sentiment of the people worldwide. To extract the aspects of twitter data we used fast-text model and to classify the sentiments of the data we used in various machine learning and deep learning models. Based on the obtained results, we chose the deep learning model as the best performing model for the classification task.
 
 ### Calories Burned Prediction using Machine Learning    [[Read More](https://github.com/dipankarghosh8/Calories-Burned-Prediction)]
+![](/img/Calories-Burned-Prediction.png)
 
-Using this model, we'll be able to evaluate how many calories we would burn during a specific duration. It takes some parameters such as your age, gender, exercise duration etc. and then it evaluates the number of calories you would burn.
+With this model you will be able to evaluate how many calories you would burn during a specific duration. It takes some parameters such as your 'age' , 'gender' , 'exercise duration' etc. and then it evaluates the amount of calories you would burn. In addition, you will be able to observe similar results and general information (according to the parameter values that you would enter into application).
+
+This project is made up of a simple machine learning algorithm(RandomForestRegressor) from sklearn library. Various concepts implemented in this project such as 'EDA' , '[Pearson] Correlation' , 'Learning Curve' etc. which is available in Jupyter/Colab notebook.
+
 
 
 <!--  ![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
