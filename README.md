@@ -27,7 +27,7 @@
 -->
 
 ## Projects
-### Chat PDF Langchain App to get answer from the bot   [[Read More]()]
+### Chat PDF Langchain App to get answer from the bot   [[Read More](https://github.com/dipankarghosh8/Chat-PDF-APP)]
 Build a simple Chat PDF Langchain App where User are able to upload any PDF, then ask question and get answer from the bot.
 ![](/img/PDF-LangChain.jpg)
 
@@ -35,13 +35,13 @@ The PDF Chat Langchain App is a Python application that allows you to chat with 
 
 
 
-### Aspect Based Sentiment Analysis     [[Read More]()]
-![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
+### Aspect Based Sentiment Analysis     [[Read More](https://github.com/dipankarghosh8/Aspect-Based-Sentiment)]
+![](/img/aspect_based_sentiment_analysis.png)
 Covid-19 sentiment analysis is the practice to identify and extract subjective information from text data related to the Covid-19 pandemic. This can include sentiments, emotions, opinions, and other potentially useful information that can be used to understand the public's reaction to the pandemic and useful for decision making. The insights gained from this analysis can be useful for fighting against the pandemic and strategy or policy making.
 
 We have used aspect-based sentiment analysis to classify public opinion about covid19 twitter data and the sentiment of the people worldwide. To extract the aspects of twitter data we used fast-text model and to classify the sentiments of the data we used in various machine learning and deep learning models. Based on the obtained results, we chose the deep learning model as the best performing model for the classification task.
 
-### Calories Burned Prediction using Machine Learning    [[Read More]()]
+### Calories Burned Prediction using Machine Learning    [[Read More](https://github.com/dipankarghosh8/Calories-Burned-Prediction)]
 
 Using this model, we'll be able to evaluate how many calories we would burn during a specific duration. It takes some parameters such as your age, gender, exercise duration etc. and then it evaluates the number of calories you would burn.
 
