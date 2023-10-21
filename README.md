@@ -29,14 +29,14 @@
 ## Projects
 ### Chat PDF Langchain App to get answer from the bot   [[Read More]()]
 Build a simple Chat PDF Langchain App where User are able to upload any PDF, then ask question and get answer from the bot.
-![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
+![](/img/PDF-LangChain.jpg)
 
 The PDF Chat Langchain App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
 
 
 ### Aspect Based Sentiment Analysis     [[Read More]()]
-
+![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
 Covid-19 sentiment analysis is the practice to identify and extract subjective information from text data related to the Covid-19 pandemic. This can include sentiments, emotions, opinions, and other potentially useful information that can be used to understand the public's reaction to the pandemic and useful for decision making. The insights gained from this analysis can be useful for fighting against the pandemic and strategy or policy making.
 
 We have used aspect-based sentiment analysis to classify public opinion about covid19 twitter data and the sentiment of the people worldwide. To extract the aspects of twitter data we used fast-text model and to classify the sentiments of the data we used in various machine learning and deep learning models. Based on the obtained results, we chose the deep learning model as the best performing model for the classification task.
