@@ -33,11 +33,11 @@ Covid-19 sentiment analysis is the practice to identify and extract subjective i
 
 We have used aspect-based sentiment analysis to classify public opinion about covid19 twitter data and the sentiment of the people worldwide. To extract the aspects of twitter data we used fast-text model and to classify the sentiments of the data we used in various machine learning and deep learning models. Based on the obtained results, we chose the deep learning model as the best performing model for the classification task.
 
-![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
 
 
 
-<!--
+<!--  ![EEG Band Discovery](/img/aspect_based_sentiment_analysis.png)
+
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
